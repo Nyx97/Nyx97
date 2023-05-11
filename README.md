@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is my first repository, please be patience 👋
 
 <!--
 **Nyx97/Nyx97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
